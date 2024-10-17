@@ -17,7 +17,7 @@ export default function NavbarComponent() {
           <a href="/">
             <div className="flex items-center">
               <Image
-                src="/OhneTitel2.svg"
+                src="/vercel.svg"
                 alt="Logo"
                 className="dark:invert"
                 width={50}

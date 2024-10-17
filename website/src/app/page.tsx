@@ -1,10 +1,16 @@
-// import Image from "next/image";
-import NavbarComponent from "./components/navbar";
+// Import the NavbarComponent at the top of the file
+import NavbarComponent from ".//components/navbar";
 
 export default function Home() {
   return (
     <div>
-     <main></main>
+      {/* Add the NavbarComponent here */}
+      <NavbarComponent />
+      
+      {/* You can add your main content below */}
+      <main>
+        {/* Your page content */}
+      </main>
     </div>
   );
 }
