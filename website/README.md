@@ -28,3 +28,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 [Next.js deployment documentation](https://nextjs.org/docs/deployment)
+
+
+Zweckbeschreibung des Projekts:
+
+Dieses Projekt dient dem erlernen der Grundlagen der Webentwicklung. Es wird eine einfache Webseite erstellt, die eine Navigationsleiste enthält und einen Login- und Registrierungsbutton enthält. Die Seite wird mit Next.js und Tailwind CSS erstellt.   
+
+Darüber hinaus wird eine Firebase-Authentifizierung integriert, um die Anmeldung und Registrierung zu ermöglichen. Die Firebase-Authentifizierung wird mit Firebase Authentication und Firebase Firestore verwendet. Firebase Firestore wird verwendet, um die Benutzerdaten zu speichern und zu verwalten.
+
+Dies hat den hintergrund mich der Herauforderung zu stellen mir das Webdevelopment selbst beizubringen. Ich habe mich auf die Verwendung von Next.js und Tailwind CSS konzentriert, um eine einfache und moderne Webseite zu erstellen.
